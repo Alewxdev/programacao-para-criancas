@@ -4,9 +4,9 @@ Projeto social de educação tecnológica voltado para crianças, com foco em pr
 
 ## Objetivo
 
-Introduzir crianças ao universo da tecnologia de forma acessível, divertida e prática, despertando interesse por lógica, algoritmos e criação digital.
+Introduzir crianças ao universo da tecnologia de forma acessível e prática, estimulando o raciocínio lógico, a criatividade e o interesse por programação.
 
-## O que foi trabalhado
+## Conteúdo do projeto
 
 - introdução à programação
 - lógica e algoritmos
@@ -15,9 +15,9 @@ Introduzir crianças ao universo da tecnologia de forma acessível, divertida e 
 - atividades práticas e desafios simples
 - desenvolvimento de ideias de jogos
 
-## Estrutura do projeto
+## Estrutura das aulas
 
-O projeto foi organizado em 5 aulas, com foco em uma abordagem gradual e acessível:
+O projeto foi organizado em cinco encontros, com abordagem gradual e acessível:
 
 1. Introdução à programação e lógica
 2. Sequências e algoritmos
@@ -35,7 +35,7 @@ Na primeira aula, foram apresentados conceitos básicos de programação e lógi
 - raciocínio lógico
 - atividades práticas
 
-Esse primeiro encontro foi importante para apresentar a programação de forma clara e incentivar a curiosidade das crianças.
+Foi um primeiro contato importante para mostrar que a programação pode ser acessível, interessante e criativa.
 
 ## Organização do repositório
 
@@ -62,7 +62,7 @@ programacao-para-criancas/
 
 ## Registro do projeto
 
-Este repositório serve como registro da realização do projeto, incluindo a primeira aula e a organização das próximas etapas.
+Este repositório funciona como registro da realização do projeto, incluindo a primeira aula e a organização das próximas etapas.
 
 ### Galeria de fotos
 
@@ -74,7 +74,7 @@ A publicação da primeira aula também está no LinkedIn:
 
 ## Valor do projeto
 
-Além de trabalhar conceitos de programação, o projeto mostra iniciativa, organização e envolvimento com educação tecnológica. Ele representa uma experiência concreta em projeto social, ensino e desenvolvimento de raciocínio lógico.
+Além de trabalhar conceitos de programação, o projeto mostra iniciativa, organização e envolvimento com educação tecnológica. Ele representa uma experiência concreta em educação, projeto social e desenvolvimento do raciocínio lógico.
 
 ## Próximos passos
 
