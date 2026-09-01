@@ -83,11 +83,11 @@ Este repositório funciona como um registro do projeto e da trajetória do apren
 
 ### Galeria do projeto
 
-A pasta de imagens do projeto foi organizada para receber fotos reais das atividades, encontros, alunos e materiais utilizados durante a execução da primeira aula e das próximas etapas.
+A pasta de imagens do projeto foi organizada para registrar fotos reais das atividades, encontros, alunos e materiais utilizados durante a primeira aula e nas próximas etapas.
 
-Veja a galeria e organize as imagens aqui:
+Veja a galeria oficial do projeto:
 
-[Galeria de imagens do projeto](imagens/README.md)
+[📷 Galeria de imagens do projeto](imagens/README.md)
 
 Acompanhe também a publicação da primeira aula no LinkedIn:
 
@@ -119,3 +119,10 @@ Em vez de apresentar apenas conhecimentos técnicos de forma isolada, o projeto 
 A tecnologia deixa de ser apenas um tema abstrato e passa a ser uma ferramenta de inclusão, criatividade e aprendizado. Este projeto representa uma forma de levar programação, lógica e inovação para crianças de maneira acessível e inspiradora.
 
 > Mais do que ensinar código, o objetivo é despertar curiosidade, construir confiança e abrir portas para o futuro.
+
+---
+
+## 🔗 Links importantes
+
+- [Repositório no GitHub](https://github.com/Alewxdev/programacao-para-criancas)
+- [Publicação da primeira aula no LinkedIn](https://lnkd.in/p/dYVbTREB?utm_source=chatgpt.com)
