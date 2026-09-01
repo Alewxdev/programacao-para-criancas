@@ -1,38 +1,23 @@
 # 📷 Galeria do projeto
 
-Este diretório foi preparado para armazenar fotos reais das aulas, dos alunos, das atividades e dos momentos mais marcantes do projeto.
+Este diretório reúne fotos reais da primeira aula do projeto, registrando o ambiente, os participantes e a dinâmica da atividade.
 
-## Como usar
+## Aula 01 — Registro visual
 
-- adicione as fotos em formato JPG, PNG ou WEBP
-- organize por aula ou por evento
-- mantenha uma legenda simples para contextualizar cada imagem
+![Primeira imagem do projeto](aula-01/IMG_3460.jpg)
 
-## Estrutura sugerida
+![Segunda imagem do projeto](aula-01/IMG_3461.jpg)
 
-```text
-imagens/
-├── aula-01/
-│   ├── foto-01.jpg
-│   ├── foto-02.jpg
-│   └── foto-03.jpg
-├── aula-02/
-├── aula-03/
-├── aula-04/
-├── aula-05/
-└── registro-geral/
-```
+![Terceira imagem do projeto](aula-01/IMG_3462.jpg)
 
-## Exemplo de apresentação
+![Quarta imagem do projeto](aula-01/IMG_3463.jpg)
 
-```md
-## Aula 01
+![Quinta imagem do projeto](aula-01/IMG_3465.jpg)
 
-![Foto da primeira aula](aula-01/foto-01.jpg)
+![Sexta imagem do projeto](aula-01/IMG_3466.jpg)
 
-Descrição: apresentação inicial do projeto e introdução à programação.
-```
+![Registro do WhatsApp da aula](aula-01/whatsapp-aula-01.jpg)
 
 ## Importância
 
-As imagens tornam o projeto mais real, autêntico e impactante para quem visita o GitHub, mostrando a prática, a interação e o resultado do trabalho realizado.
+As imagens ajudam a contar a história do projeto de forma concreta e emocionante, tornando a experiência mais autêntica para quem visita o repositório.
