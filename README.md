@@ -1,61 +1,43 @@
-# 🎮 Programação e Desenvolvimento de Jogos para Crianças
+# Programação e Desenvolvimento de Jogos para Crianças
 
-Projeto social de educação tecnológica com foco na introdução de crianças ao universo da programação, da lógica e da criação de jogos de forma lúdica, acessível e inspiradora.
+Projeto social de educação tecnológica voltado para crianças, com foco em programação, lógica e criação de jogos.
 
-## 🌟 Visão geral
+## Objetivo
 
-Este projeto nasceu com a intenção de aproximar crianças do universo digital por meio de atividades práticas, criativas e colaborativas. A proposta vai além da simples introdução à tecnologia: busca desenvolver raciocínio lógico, autonomia, criatividade e curiosidade por meio da programação.
+Introduzir crianças ao universo da tecnologia de forma acessível, divertida e prática, despertando interesse por lógica, algoritmos e criação digital.
 
-## 🎯 Objetivo do projeto
+## O que foi trabalhado
 
-Promover inclusão digital e despertar o interesse por tecnologia, programação, lógica e desenvolvimento de jogos por meio de atividades envolventes e de fácil compreensão para crianças.
+- introdução à programação
+- lógica e algoritmos
+- sequência de instruções
+- pensamento computacional
+- atividades práticas e desafios simples
+- desenvolvimento de ideias de jogos
 
-## 💡 O que será trabalhado
+## Estrutura do projeto
 
-- Fundamentos da programação
-- Lógica e algoritmos
-- Sequência de comandos
-- Pensamento computacional
-- Desenvolvimento de ideias de jogos
-- Trabalho em equipe e resolução de problemas
-- Aprendizado por meio da prática e da criatividade
-
-## 📚 Estrutura das aulas
-
-O projeto foi pensado em 5 encontros, com foco em uma abordagem gradual e acessível:
+O projeto foi organizado em 5 aulas, com foco em uma abordagem gradual e acessível:
 
 1. Introdução à programação e lógica
 2. Sequências e algoritmos
 3. Programação visual e blocos
 4. Ideação e criação de jogos
-5. Revisão, aplicação prática e encerramento
+5. Revisão e atividades práticas
 
-## 🚀 Primeira aula
+## Primeira aula
 
-A primeira aula foi voltada para apresentar conceitos básicos de programação de maneira clara e envolvente. Os temas principais foram:
+Na primeira aula, foram apresentados conceitos básicos de programação e lógica, com foco em:
 
-- O que é programação
-- Algoritmos
-- Sequência de comandos
-- Lógica de execução
-- Raciocínio computacional
+- o que é programação
+- algoritmos
+- sequência de comandos
+- raciocínio lógico
+- atividades práticas
 
-Foi uma etapa inicial importante para despertar interesse e mostrar que a tecnologia pode ser criativa, divertida e acessível.
+Esse primeiro encontro foi importante para apresentar a programação de forma clara e incentivar a curiosidade das crianças.
 
-## 📌 Por que esse projeto importa
-
-Este tipo de iniciativa combina:
-
-- educação tecnológica
-- inclusão digital
-- atividade social
-- criatividade
-- desenvolvimento de raciocínio lógico
-- despertar de interesse pela área de computação
-
-Além disso, é uma experiência concreta que evidencia competências de organização, comunicação, ensino e protagonismo em projetos sociais.
-
-## 🧩 Organização do repositório
+## Organização do repositório
 
 ```text
 programacao-para-criancas/
@@ -74,55 +56,34 @@ programacao-para-criancas/
 ├── imagens/
 │   └── README.md
 ├── .gitignore
-└── LICENSE
+├── LICENSE
+└── .git
 ```
 
-## 📸 Registro do projeto
+## Registro do projeto
 
-Este repositório funciona como um registro do projeto e da trajetória do aprendizado, servindo como material de documentação e apresentação da iniciativa.
+Este repositório serve como registro da realização do projeto, incluindo a primeira aula e a organização das próximas etapas.
 
-### Galeria do projeto
+### Galeria de fotos
 
-A pasta de imagens do projeto foi organizada para registrar fotos reais das atividades, encontros, alunos e materiais utilizados durante a primeira aula e nas próximas etapas.
+[Galeria do projeto](imagens/README.md)
 
-Veja a galeria oficial do projeto:
+A publicação da primeira aula também está no LinkedIn:
 
-[📷 Galeria de imagens do projeto](imagens/README.md)
+[Ver publicação no LinkedIn](https://lnkd.in/p/dYVbTREB?utm_source=chatgpt.com)
 
-Acompanhe também a publicação da primeira aula no LinkedIn:
+## Valor do projeto
 
-[Ver a publicação da primeira aula no LinkedIn](https://lnkd.in/p/dYVbTREB?utm_source=chatgpt.com)
+Além de trabalhar conceitos de programação, o projeto mostra iniciativa, organização e envolvimento com educação tecnológica. Ele representa uma experiência concreta em projeto social, ensino e desenvolvimento de raciocínio lógico.
 
-## 🎓 Impacto e valor para portfólio
+## Próximos passos
 
-Este projeto agrega valor ao perfil profissional porque mostra uma experiência real em:
+- registrar as próximas aulas
+- atualizar materiais e slides
+- incluir atividades e desafios desenvolvidos
+- continuar documentando o andamento do projeto
 
-- educação tecnológica
-- programação
-- lógica e algoritmos
-- iniciativa social
-- organização e estruturação de atividades
-- desenvolvimento de projetos com impacto educativo
-
-Em vez de apresentar apenas conhecimentos técnicos de forma isolada, o projeto demonstra aplicação prática em um contexto de aprendizagem e transformação social.
-
-## 🛠️ Próximos passos
-
-- registrar cada aula com mais detalhes
-- adicionar materiais didáticos e slides
-- inserir exemplos de atividades e desafios
-- documentar aprendizados e resultados
-- evoluir o projeto conforme novas aulas forem realizadas
-
-## 🚀 Mensagem final
-
-A tecnologia deixa de ser apenas um tema abstrato e passa a ser uma ferramenta de inclusão, criatividade e aprendizado. Este projeto representa uma forma de levar programação, lógica e inovação para crianças de maneira acessível e inspiradora.
-
-> Mais do que ensinar código, o objetivo é despertar curiosidade, construir confiança e abrir portas para o futuro.
-
----
-
-## 🔗 Links importantes
+## Links
 
 - [Repositório no GitHub](https://github.com/Alewxdev/programacao-para-criancas)
-- [Publicação da primeira aula no LinkedIn](https://lnkd.in/p/dYVbTREB?utm_source=chatgpt.com)
+- [Publicação da primeira aula](https://lnkd.in/p/dYVbTREB?utm_source=chatgpt.com)
